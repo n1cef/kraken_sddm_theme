@@ -243,7 +243,7 @@ Pane {
                     player.play();
                 }
                 else{
-                    backgroundImage.source = config.background || config.Background
+                    backgroundImage.source = "file:///usr/share/sddm/themes/kraken_sddm_theme/Backgrounds/science.png"
                 }
             }
         }
